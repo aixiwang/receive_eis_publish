@@ -1,0 +1,75 @@
+Receiving messages on topics: ['publish_test'] ...
+publish_test <class 'str'>
+-----------------------------
+recv: b'publish_test\x00'
+recv: b'\x00'
+recv: b'\x02'
+recv: b'{"empty":null,"string":"test","obj":{"test3":"world","test":{"test2":"hello"}},"integer":123,"floating":55.5,"arr":["test",123],"boolean":1}'
+recv: b'""""""""""'
+-----------------------------
+recv: b'publish_test\x00'
+recv: b'\x00'
+recv: b'\x02'
+recv: b'{"empty":null,"string":"test","obj":{"test3":"world","test":{"test2":"hello"}},"integer":123,"floating":55.5,"arr":["test",123],"boolean":1}'
+recv: b'""""""""""'
+-----------------------------
+recv: b'publish_test\x00'
+recv: b'\x00'
+recv: b'\x02'
+recv: b'{"empty":null,"string":"test","obj":{"test3":"world","test":{"test2":"hello"}},"integer":123,"floating":55.5,"arr":["test",123],"boolean":1}'
+recv: b'""""""""""'
+-----------------------------
+recv: b'publish_test\x00'
+recv: b'\x00'
+recv: b'\x02'
+recv: b'{"empty":null,"string":"test","obj":{"test3":"world","test":{"test2":"hello"}},"integer":123,"floating":55.5,"arr":["test",123],"boolean":1}'
+recv: b'""""""""""'
+-----------------------------
+recv: b'publish_test\x00'
+recv: b'\x00'
+recv: b'\x02'
+recv: b'{"empty":null,"string":"test","obj":{"test3":"world","test":{"test2":"hello"}},"integer":123,"floating":55.5,"arr":["test",123],"boolean":1}'
+recv: b'""""""""""'
+-----------------------------
+recv: b'publish_test\x00'
+recv: b'\x00'
+recv: b'\x02'
+recv: b'{"empty":null,"string":"test","obj":{"test3":"world","test":{"test2":"hello"}},"integer":123,"floating":55.5,"arr":["test",123],"boolean":1}'
+recv: b'""""""""""'
+-----------------------------
+recv: b'publish_test\x00'
+recv: b'\x00'
+recv: b'\x02'
+recv: b'{"empty":null,"string":"test","obj":{"test3":"world","test":{"test2":"hello"}},"integer":123,"floating":55.5,"arr":["test",123],"boolean":1}'
+recv: b'""""""""""'
+-----------------------------
+recv: b'publish_test\x00'
+recv: b'\x00'
+recv: b'\x02'
+recv: b'{"empty":null,"string":"test","obj":{"test3":"world","test":{"test2":"hello"}},"integer":123,"floating":55.5,"arr":["test",123],"boolean":1}'
+recv: b'""""""""""'
+-----------------------------
+recv: b'publish_test\x00'
+recv: b'\x00'
+recv: b'\x02'
+recv: b'{"empty":null,"string":"test","obj":{"test3":"world","test":{"test2":"hello"}},"integer":123,"floating":55.5,"arr":["test",123],"boolean":1}'
+recv: b'""""""""""'
+-----------------------------
+recv: b'publish_test\x00'
+recv: b'\x00'
+recv: b'\x02'
+recv: b'{"empty":null,"string":"test","obj":{"test3":"world","test":{"test2":"hello"}},"integer":123,"floating":55.5,"arr":["test",123],"boolean":1}'
+recv: b'""""""""""'
+-----------------------------
+recv: b'publish_test\x00'
+recv: b'\x00'
+recv: b'\x02'
+recv: b'{"empty":null,"string":"test","obj":{"test3":"world","test":{"test2":"hello"}},"integer":123,"floating":55.5,"arr":["test",123],"boolean":1}'
+recv: b'""""""""""'
+-----------------------------
+recv: b'publish_test\x00'
+recv: b'\x00'
+recv: b'\x02'
+recv: b'{"empty":null,"string":"test","obj":{"test3":"world","test":{"test2":"hello"}},"integer":123,"floating":55.5,"arr":["test",123],"boolean":1}'
+recv: b'""""""""""'
+Done.

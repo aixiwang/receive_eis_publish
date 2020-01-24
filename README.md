@@ -1,2 +1,4 @@
 # receive_eis_publish
-use pyzmq to receive eis publish data
+use pyzmq to receive eis published data.
+
+
